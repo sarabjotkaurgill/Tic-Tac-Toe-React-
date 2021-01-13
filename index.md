@@ -12,4 +12,4 @@ This project is implemented by me only.
 
 1. React
 2. HTML
-3. CSS=
+3. CSS
